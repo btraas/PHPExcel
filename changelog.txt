@@ -22,6 +22,9 @@
 * @version    ##VERSION##, ##DATE##
 **************************************************************************************
 
+1.8.2: Brayden
+
+- PHP 7.2 warning bug fix
 
 Planned for 1.8.2
 - Bugfix:   (MBaker)                            - Fix to getCell() method when cell reference includes a worksheet reference
